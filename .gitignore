@@ -9,7 +9,7 @@ __pycache__/
 #.DS_Store
 .DS_Store
 
-#config
+#config.py
 config.py
 
 # ratings.csv
